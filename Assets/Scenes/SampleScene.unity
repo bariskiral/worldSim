@@ -1164,7 +1164,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Tahmini T\xFCketim"
+  m_Text: Consumption
 --- !u!222 &511654541
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1243,7 +1243,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Do\u011Falgaz (m\xB3):\n"
+  m_Text: "Natural Gas (m\xB3):\n"
 --- !u!222 &548477026
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1479,7 +1479,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "At\u0131k Su (m\xB3):\n"
+  m_Text: "Waste Water (m\xB3):\n"
 --- !u!222 &650516202
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1859,7 +1859,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Su (m\xB3):"
+  m_Text: "Water (m\xB3):"
 --- !u!222 &842624360
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2215,7 +2215,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Elektrik (kWh):
+  m_Text: 'Electric (kWh):
 
 '
 --- !u!222 &911800821
@@ -2553,7 +2553,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Yol Modu
+  m_Text: Road Mode
 --- !u!222 &1129455082
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4452,7 +4452,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Ki\u015Fi Say\u0131s\u0131:"
+  m_Text: 'People Count:'
 --- !u!222 &2093714393
 CanvasRenderer:
   m_ObjectHideFlags: 0
