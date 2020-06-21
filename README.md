@@ -6,3 +6,5 @@ Is an unfinished university project
 	- Change wind speed and rotation
 	- Unfinished camera controls
 	- Unfinished consumption tracker
+
+![](https://github.com/NoQxyGen/worldSim/blob/master/Assets/ss1.png)
